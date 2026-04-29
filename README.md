@@ -94,7 +94,7 @@ AI_Review_Handling_System/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/hasnainyaqub/AI-Review-Handling-System.git
 cd AI_Review_Handling_System
 ```
 
